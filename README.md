@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>I'm Albov Egor </b></h1>
 
-- I'm student of 1st course of Saint Petersburg HSE University, learning Computer Science 
+- I'm student of 2nd course of Saint Petersburg HSE University, learning Computer Science 
 
 [//]: # (- I’m currently open for an Intern or a new job opportunity, this is [my resume]&#40;https://read.cv/0xabdulkhalid&#41;)
 
